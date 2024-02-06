@@ -8,8 +8,6 @@ The background color can be changed by selecting a color from a dropdown menu. T
 * Java SE Development Kit 11 or later
 * JavaFX SDK 11 or later
 
-### Clone
-git clone https://github.com/exampleuser/RotatingLine.git
 
 ### Usage
 * Navigate to the project directory in a terminal.
